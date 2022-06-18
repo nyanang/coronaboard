@@ -49,7 +49,7 @@ class SheetApiClientFactory {
             access_type: 'offline',
             scope: SCOPES,
         });
-
+1
         console.log('다음 URL을 브라우저에서 열어 인증을 진행하세요:', authUrl);
 
         // 터미널에서 키보드 입력 대기
